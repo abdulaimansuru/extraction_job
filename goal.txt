@@ -1,0 +1,1 @@
+To operate on images and pdfs, then extract texts from them, whiles also trying to maintain formatting and especially speacial dagbani characters. 
